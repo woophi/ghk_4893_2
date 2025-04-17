@@ -128,7 +128,7 @@ export const App = () => {
 
             <div style={{ marginTop: '-40px' }}>
               <Typography.Text tag="p" defaultMargins={false} view="primary-small" weight="bold">
-                Доход на остаток
+                14% на остаток
               </Typography.Text>
               <Typography.Text view="primary-small" color="secondary">
                 При пополнении брокерского счёта или ИИС
